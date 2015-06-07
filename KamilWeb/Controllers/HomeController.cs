@@ -13,5 +13,10 @@ namespace KamilWeb.Controllers
         {
             return View();
         }
+
+        public ActionResult GetProfileInfo()
+        {
+            return View();
+        }
     }
 }
